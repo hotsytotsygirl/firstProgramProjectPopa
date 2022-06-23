@@ -1,0 +1,15 @@
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\bin\Debug\net6.0\Programm001_HelloPopa.exe
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\bin\Debug\net6.0\Programm001_HelloPopa.deps.json
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\bin\Debug\net6.0\Programm001_HelloPopa.runtimeconfig.json
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\bin\Debug\net6.0\Programm001_HelloPopa.dll
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\bin\Debug\net6.0\Programm001_HelloPopa.pdb
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.csproj.AssemblyReference.cache
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.AssemblyInfoInputs.cache
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.AssemblyInfo.cs
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.csproj.CoreCompileInputs.cache
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.dll
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\refint\Programm001_HelloPopa.dll
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.pdb
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\Programm001_HelloPopa.genruntimeconfig.cache
+D:\GeekBrains\MyProgramms\firstProgramm\Programm001_HelloPopa\obj\Debug\net6.0\ref\Programm001_HelloPopa.dll
